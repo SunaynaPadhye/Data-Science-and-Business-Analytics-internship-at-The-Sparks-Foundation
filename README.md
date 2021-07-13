@@ -2,7 +2,9 @@
 Prediction using Supervised ML
 
 Link of repository:  
-GitHub: https://github.com/SunaynaPadhye/Data...
+GitHub: https://github.com/SunaynaPadhye/Data...  
+
+Data: http://bit.ly/w-data
 
 Other Links:  
 YouTube: https://www.youtube.com/watch?v=OHFspMk-XR0
